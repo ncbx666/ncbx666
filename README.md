@@ -24,8 +24,3 @@ ML-инженер в **Axenix** и студент 4-го курса СПбГУ (
 | [**docling-miner-pdf-parser**](https://github.com/ncbx666/docling-miner-pdf-parser) | То же с VLM MinerU 2.5, на CPU и в Colab |
 | [**ai-hr-hackaton**](https://github.com/ncbx666/ai-hr-hackaton) | Хакатон: голосовое собеседование с вопросами и оценкой на LLM |
 | [**architecture-classification**](https://github.com/ncbx666/architecture-classification) | Архитектурный стиль здания по фото, 25 классов, ResNet50 |
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ncbx666&layout=compact&hide=html,css,typescript,javascript,batchfile,go,shell&langs_count=6&hide_border=true&theme=github_dark&bg_color=00000000&custom_title=%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8&locale=ru"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncbx666&layout=compact&hide=html,css,typescript,javascript,batchfile,go,shell&langs_count=6&hide_border=true&bg_color=00000000&custom_title=%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8&locale=ru" alt="Языки"/>
-</picture>
