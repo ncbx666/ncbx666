@@ -1,7 +1,10 @@
-## Влад Углов
+## Vlad Uglov
 
-AI-инженер в **Axenix**. Окончил СПбГУ (ПМ-ПУ) в 2026 году.
-Работаю с LLM, разбираю документы в структурированный текст и прогнозирую временные ряды.
+**AI Engineer @ Axenix** · Applied Math & Control Processes, SPbU '26
+
+I build things that turn messy real-world data into something models can use:
+LLM pipelines, PDF-to-Markdown parsers that survive tables, formulas and scans,
+and forecasting models for noisy time series.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -14,13 +17,13 @@ AI-инженер в **Axenix**. Окончил СПбГУ (ПМ-ПУ) в 2026 �
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 
-### Проекты
+### Selected work
 
-| Проект | О чём |
+| Project | What it does |
 |---|---|
-| [**diploma**](https://github.com/ncbx666/diploma) | ВКР: прогноз фитофтороза картофеля по погоде — от бустингов до TFT и Chronos-2 |
-| [**diploma-web-ui**](https://github.com/ncbx666/diploma-web-ui) | Веб-сервис с моделями из ВКР · [демо](https://diploma-web-ui.onrender.com/) |
-| [**docling-glm-ocr-parser**](https://github.com/ncbx666/docling-glm-ocr-parser) | PDF → Markdown: Docling + GLM-OCR для таблиц, формул и сканов |
-| [**docling-miner-pdf-parser**](https://github.com/ncbx666/docling-miner-pdf-parser) | То же с VLM MinerU 2.5, на CPU и в Colab |
-| [**ai-hr-hackaton**](https://github.com/ncbx666/ai-hr-hackaton) | Хакатон: голосовое собеседование с вопросами и оценкой на LLM |
-| [**architecture-classification**](https://github.com/ncbx666/architecture-classification) | Архитектурный стиль здания по фото, 25 классов, ResNet50 |
+| [**diploma**](https://github.com/ncbx666/diploma) | Thesis: forecasting potato late blight from weather — benchmark from gradient boosting to TFT and Chronos-2 |
+| [**diploma-web-ui**](https://github.com/ncbx666/diploma-web-ui) | The thesis models as a web service: upload weather data, get a disease forecast · [live demo](https://diploma-web-ui.onrender.com/) |
+| [**docling-glm-ocr-parser**](https://github.com/ncbx666/docling-glm-ocr-parser) | Hybrid PDF → Markdown: Docling for layout, GLM-OCR only where text extraction fails |
+| [**docling-miner-pdf-parser**](https://github.com/ncbx666/docling-miner-pdf-parser) | Same idea with the MinerU 2.5 VLM, runs on CPU or a Colab T4 |
+| [**ai-hr-hackaton**](https://github.com/ncbx666/ai-hr-hackaton) | Hackathon: a voice interviewer that generates questions and scores candidates with LLMs |
+| [**architecture-classification**](https://github.com/ncbx666/architecture-classification) | Recognizes 25 architectural styles from a photo, fine-tuned ResNet50 |
