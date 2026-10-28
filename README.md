@@ -44,8 +44,8 @@
 ## 📊 Статистика
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ncbx666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=ru" alt="Статистика GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncbx666&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&locale=ru" alt="Языки"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ncbx666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=ru&custom_title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20GitHub" alt="Статистика GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncbx666&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,typescript,javascript,batchfile,go,shell&langs_count=6&locale=ru&custom_title=%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8" alt="Языки"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ncbx666&theme=tokyonight&hide_border=true&locale=ru" alt="Серия коммитов"/>
